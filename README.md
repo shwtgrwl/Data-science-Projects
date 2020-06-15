@@ -1,4 +1,4 @@
-# Data-science-Projects
+# Data-science-Project
 
 
 Real Estate Price Prediction
